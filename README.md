@@ -1,6 +1,4 @@
 # ResumeTeamMatcher
-ResumeTeamMatcher
-
 # Resume-to-Team Matching Agent
 
 This project uses **Google Gemini AI** to match a candidate's resume with the most suitable team(s) in a company based on provided team descriptions.  
